@@ -1,0 +1,39 @@
+7.
+Kết quả hiện thị trên máy ảo:
+onResume
+
+Kết quả hiện thị trên máy thật: 
+onCreate
+onStart
+onResume
+8.
+onPause
+onDestroy
+9.
+Kết quả hiện thị trên máy ảo:
+onResume
+
+Kết quả hiện thị trên máy thật: 
+onCreate
+onStart
+onResume
+10.
+onPause
+onStop
+11.
+Kết quả hiện thị trên máy ảo:
+onResume
+
+Kết quả hiện thị trên máy thật:
+onRestart
+onStart
+onResume
+12.
+Kết quả hiện thị trên máy ảo:
+onPause
+onDestroy
+
+Kết quả hiện thị trên máy thật:
+onPause
+onStop
+onDestroy
